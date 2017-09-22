@@ -8,33 +8,18 @@
 
 **Link(s) to work:** https://www.freecodecamp.org/challenges/link-to-external-pages-with-anchor-elements (next task - for tomorrow)
 
-<!--
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 2: 21st September 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished HTML5 and CSS on freeCodeCamps Front End Development Certification.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Again pretty quick, nothing that new or crazy.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work:** https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers (next task - for tomorrow)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 3: 22nd September 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed all of Responsive Design with Bootstrap on freeCodeCamps Front End Development Certification.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Supposed to take 5 hours... think it took me 50 minutes. Had looked at Bootstrap before
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
--->
+**Link(s) to work:** https://www.freecodecamp.org/challenges/learn-how-script-tags-and-document-ready-work (next task - for tomorrow)
